@@ -1,0 +1,5 @@
+feature,ks_statistic,p_value,drift_detected,drift_status
+sepal length (cm),0.0,1.0,False,No Drift
+sepal width (cm),0.0,1.0,False,No Drift
+petal length (cm),0.393333,0.0,True,YES - Drift
+petal width (cm),0.0,1.0,False,No Drift
